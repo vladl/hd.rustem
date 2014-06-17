@@ -1,6 +1,6 @@
 hd.rustem
 =========
 
-Helpdesk system
+Helpdesk system, Inc
 
-TODO: Desription 
+TODO: Desription here, pls
